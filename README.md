@@ -10,21 +10,3 @@ Squeak parts layed out on PrusaSlicer (3D printing software):
 
 Squeak Full 3D Model:
 <img width="1881" height="944" alt="image" src="https://github.com/user-attachments/assets/75d8516b-eb72-48b7-866b-84f313223208" />
-
-BOM
-
-NAME: Filament (99g @ 0.10 CAD/g)	
-
-PURPOSE: Filament for 3D printing Squeak case and other printable parts at local public library. (Added estimated filament usage since I don't have a cart)	
-
-COST (USD): $0.07	
-
-QUANTITY:99	
-
-TOTAL(USD): $6.93	
-
-LINK: https://www.hpl.ca/articles/makerspace-price-guide
-
-DISTRIBUTOR: Hamilton Public Library
-
-ESTIMATED COST IN BITS: 7 bits
