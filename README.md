@@ -11,6 +11,6 @@ Squeak parts layed out on PrusaSlicer (3D printing software):
 Squeak Full 3D Model:
 <img width="1881" height="944" alt="image" src="https://github.com/user-attachments/assets/75d8516b-eb72-48b7-866b-84f313223208" />
 
-| Item No. | Part Name                | Description                  | Quantity | Unit Price (USD) | Total Price (USD) |
+| Name | 	Purpose           | 	Qty            | Total (USD) | Link | 	Distributor |
 |----------|--------------------------|------------------------------|----------|------------------|-------------------|
-| 1        | 100g filament for mouse  |To print mouse 100g @ 0.1CAD/g|1          | 7               | 7                 |
+| 100g filament for mouse  |To print mouse (100g @ 0.1CAD/g)  |1|7         | https://www.hpl.ca/articles/makerspace-price-guide    | Hamilton Public Library          |
