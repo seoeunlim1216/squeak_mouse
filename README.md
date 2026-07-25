@@ -1,3 +1,4 @@
+I FORGOT TO ADD BEFORE, BUT SOME OF THE HOURS FROM THIS PROJECT WERE TRACKED OUTSIDE OF HACKATIME, PLEASE CHECK MY JOURNAL FOR HOURS
 This is the beginner project, Squeak, with a few design changes to add a personal touch. I used the bambu Squeak mouse base kit and built around it. It was created on OnShape and took about 8 hours to create.
 I made this because I wanted to create a mouse that fits my hand perfectly. I also wanted a personalized mouse that had designs of the things I liked. 
 It was also a good beginner's project to introduce me to CAD because I have never 3D modeled before.
